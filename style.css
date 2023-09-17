@@ -1,0 +1,28 @@
+.display_screen {
+position: relative;
+}
+.copy_password {
+position: absolute;
+top: 0px;
+right: 0px;
+padding: 7.5px 7px;
+}
+.password_area {
+background-color: #58adf1;
+width: 200px;
+height: 300px;
+padding: 15px;
+border-radius: 10px;
+box-shadow: 1px 2px 10px black;
+}
+.password_length {
+padding: 1px 2px;
+border-radius: 2px;
+border: none;
+text-align: center;
+width: 70%;
+}
+.genrate_btn {
+box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.721);
+letter-spacing: 1px;
+}
